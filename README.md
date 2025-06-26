@@ -5,7 +5,7 @@ This is a simple, responsive *To-Do List* web application built using HTML, CSS,
 
 
 
-##  Features
+##  Features:
 
 -  Add new tasks to the list
 -  Delete tasks individually
@@ -16,7 +16,7 @@ This is a simple, responsive *To-Do List* web application built using HTML, CSS,
 
 
 
-##  Tech Stack
+##  Tech Stack:
 
 - *HTML5*
 - *CSS3*
@@ -24,14 +24,14 @@ This is a simple, responsive *To-Do List* web application built using HTML, CSS,
 
 
 
-## Preview
+## Preview:
 
 ![To-Do List Demo ](https://github.com/user-attachments/assets/0fb0a43f-c9ed-4aed-b012-b271a2c12527)
 
 
 
 
-## Future Improvements
+## Future Improvements:
 
 These features can be added later to make the app even more powerful:
 - Local storage to save tasks across sessions
