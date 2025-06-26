@@ -26,12 +26,12 @@ This is a simple, responsive *To-Do List* web application built using HTML, CSS,
 
 ## Preview
 
-![App Screenshot](screenshot.png)  
-(Replace this line with your screenshot if available)
+![To-Do List Demo ](https://github.com/user-attachments/assets/0fb0a43f-c9ed-4aed-b012-b271a2c12527)
 
 
 
-## Future Improvements (Optional)
+
+## Future Improvements
 
 These features can be added later to make the app even more powerful:
 - Local storage to save tasks across sessions
