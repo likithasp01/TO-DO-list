@@ -46,5 +46,4 @@ These features can be added later to make the app even more powerful:
 
 ##  License
 
-*This project is created as part of a learning journey*.
----
+This project is created as part of a learning journey.
